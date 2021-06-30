@@ -1,0 +1,22 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-image: url("./images/b1.png");
+    background-size: cover;
+    box-sizing: border-box;
+}
+body{
+   font-size: 40px;
+   color: white;
+}
+h1{
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   
+
+    
+}
